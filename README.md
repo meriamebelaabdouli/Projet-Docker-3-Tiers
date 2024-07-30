@@ -15,7 +15,7 @@ This architecture allows for the separation of concerns and simplifies the manag
 
 The following diagram illustrates the architecture of the Docker 3-Tier Project:
 
-![Architecture](Architecture.jfif)
+![Architecture](Architecture.png)
 
 - The *frontend* interacts with the *backend* to fetch and display data.
 - The *backend* handles the business logic and communicates with the *database* to retrieve and store data.
